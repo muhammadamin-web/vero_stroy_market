@@ -566,7 +566,8 @@ background-color: #acacac;
 
 .products{
     margin-top: 0px;
-    padding-bottom: 50px;
+    /* padding-bottom: 50px; */
+    padding-top: 50px;
 }
 .product_cards_container{
     margin-top: 50px;
@@ -632,6 +633,7 @@ font-size: 25px;
     align-items: center; */
 }
 .about{
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 .about_container{
@@ -657,6 +659,7 @@ font-size: 25px;
 .news{
     background-color: #fff;
     padding-bottom: 50px;
+padding-top: 50px;
 }
 .news_card{
     box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.2);
@@ -665,4 +668,5 @@ font-size: 25px;
 .news_name{
     font-size: 17px;
     color: #31344b;
+    line-height: 20px;
 }
